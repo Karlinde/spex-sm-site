@@ -63,4 +63,4 @@ Kommittén har redan kickstartats med personer på följande poster, som vi allt
 - Funktionärsansvarig: koordinerar och leder arbetet med funktionärer och övrig personal
 
 Har du några frågor, eller sitter du på någon särskild kompetens som skulle kunna göra 
-Spex-SM ännu bättre? Hör då gärna av dig till oss på <a href="mailto:info@spexsm.se">info@spexsm.se</a> direkt!
+Spex-SM ännu bättre? Hör då gärna av dig till oss på <a href="mailto:info@spex-sm.se">info@spex-sm.se</a> direkt!
