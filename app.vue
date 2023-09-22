@@ -24,15 +24,15 @@ useServerSeoMeta({
 
 <template>
   <div class="w-full fixed bg-gray-100 shadow-lg">
-    <nav class="flex items-center justify-between flex-wrap  p-6 sm:max-w-[1000px] sm:m-auto">
+    <nav class="flex items-center justify-between flex-wrap p-2 sm:p-4 sm:max-w-[1000px] sm:m-auto">
       <div class="flex items-center flex-no-shrink text-white mr-6">
         <div class="px-2 w-20">
           <a href="/"><img src="~/assets/img/logo-notext.png"></a>
         </div>
       </div>
       <div class="block sm:hidden">
-        <button @click="showMenu = !showMenu" class="flex items-center px-3 py-2 border rounded text-teal-lighter border-teal-light hover:text-white hover:border-white">
-          <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
+        <button @click="showMenu = !showMenu" class="flex items-center px-2 py-2 border rounded text-teal-lighter border-teal-light">
+          <svg class="fill-current h-8 w-8" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
         </button>
       </div>
       <div :class="showMenu ? 'block': 'hidden'" class="w-full pl-6 flex-grow sm:justify-end sm:flex sm:items-center sm:w-auto">
