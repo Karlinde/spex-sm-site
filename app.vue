@@ -12,6 +12,14 @@ function scrollTo(target, event) {
   event.preventDefault();
 }
 
+useServerSeoMeta({
+  title: 'Spex-SM',
+  ogTitle: 'Spex-SM',
+  description: 'Svenska mästerskapen i studentspex i Linköping 2024',
+  ogDescription: 'Svenska mästerskapen i studentspex i Linköping 2024',
+  ogLocale: 'sv_SE',
+})
+
 </script>
 
 <template>
