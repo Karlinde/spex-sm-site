@@ -81,10 +81,11 @@ useServerSeoMeta({
         SVERIGES BÄSTA SPEX
       </div>
       <div class="px-4 pt-2">
-        Spex-SM är Sveriges studentspex stora chans att visa vad de går för! Under ett
-        par varma vårdagar sätter vi upp föreställningar till allmän
-        beskådan och kämpar om att vinna priser i olika kategorier, bland annat
-        "Sveriges bästa spex".
+        Spex-SM är Sveriges studentspex stora chans att visa vad de går för!
+        Under ett par varma vårdagar sätts föreställningar upp till allmän
+        beskådan. Utöver att försöka få så många skratt från publiken som
+        möjligt kämpar deltagarna om att vinna priser i olika kategorier, bland
+        annat "Sveriges bästa spex".
       </div>
       <div class="px-4 pt-2">
         Spex-SM har sedan 2002 anordnats var 5:e år, senaste gången var i Örebro 2017.
@@ -160,7 +161,7 @@ useServerSeoMeta({
         SPONSORER
       </div>
       <div class="px-4 py-2">
-        Vill du se ditt företags logotyp här och stödja ett nytt och spännande kulturevent i Linköping?
+        Vill du se ditt företags logotyp här och stödja ett nytt och spännande kulturevent med nationell spridning?
         Hör av dig så diskuterar vi gärna ett samarbete!
       </div>
     </div>
